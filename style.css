@@ -6,7 +6,7 @@
 #container {
     height: 100vh;
     width: 100vw;
-    background-color: rgb(95, 97, 134);
+
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -73,3 +73,4 @@ button{
     border: .5px solid black;
     width: 80px;
 }
+html{  background-color: rgb(95, 97, 134); }
